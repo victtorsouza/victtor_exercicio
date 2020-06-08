@@ -1,0 +1,23 @@
+{
+  "name": "victtor_exercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victtorsouza/victtor_exercicio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victtorsouza/victtor_exercicio/issues"
+  },
+  "homepage": "https://github.com/victtorsouza/victtor_exercicio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
